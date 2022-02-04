@@ -43,9 +43,9 @@ class truc implements machin
 Le point important à retenir : Si une classe implémente une interface, elle doit définir toutes les propriétés de l'interface
 sinon une erreur sera retournée.
 
-Les interfaces sont donc trés utiles pour indiquer à un développeur comment une classe doit être écrite.
+Les interfaces sont donc très utiles pour indiquer à un développeur comment une classe doit être écrite.
 
-Elles sont trés utilisées dans les frameworks PHP car il est souvent nécessaire d'étendre ces frameworks avec des modules,
+Elles sont très utilisées dans les frameworks PHP, car il est souvent nécessaire d'étendre ces frameworks avec des modules,
 pour que ces modules fonctionnent correctement, ils doivent implémenter des méthodes bien précises.
 
 Note : Il n'est pas possible de définir dans une interface des méthodes privées ou protégées.
